@@ -22,22 +22,6 @@ This is a 5 layers Sequential Convolutional Neural Network for digits recognitio
 
 It achieved 98.51% of accuracy with this CNN trained on a GPU, which took me about a minute. If you dont have a GPU powered machine it might take a little longer, you can try reducing the epochs (steps) to reduce computation.
 
-## Execution
-
-![alt text](https://github.com/shubham99bisht/Handwritten-digit-recognition-MNIST/blob/master/src/ml2.gif)
-
-To run the code type,
-
-`python digit_recogniser.py`
-
-
-## Tutorial
-**Note: This page is not complete. Sorry for delay.**
-
-**Need help for this to be completed**
-
-For step-by-step tutorial please refer to [wiki](https://github.com/shubham99bisht/Handwritten-digit-recognition-MNIST/wiki). It will take you through all the steps right from loading the data to recognising digits through live cam.
-
 ## Update
 
 ### For running on GPU enabled devices:
